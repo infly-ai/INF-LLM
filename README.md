@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2407.xxx"><b>Paper Link</b></a>
+  <a href="https://www.infly.cn/en/research"><b>Paper Link</b></a>
 </p>
 
 
