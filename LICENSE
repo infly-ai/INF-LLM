@@ -1,0 +1,39 @@
+Version Release Date: July 16, 2024
+
+By engaging in any of the following activities with the Model or any Derivative Model, or by accepting the terms of this Agreement, you consent to be bound by the terms.
+
+1. Definitions.
+The following definitions apply to this Agreement:
+1.1. "Derivative Model" refers to any of the following related to the Model: a. Modifications made to the Model; b. Works created based on the Model. c. Any other works derived from the Model.
+1.2. "Legal Entity" means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares, or (c) beneficial ownership of such entity.
+1.3. "Model" encompasses the following components of the machine learning model shared under this Agreement: Software,Checkpoints,Algorithms,Model Weights,Configuration files,Documentation,Code.
+1.4. "Distribution" means any transmission, reproduction, publication or other sharing of the Model or Derivatives of the Model to a third party, including providing the Model as a hosted service made available by electronic or other remote means - e.g. API-based or web access.
+1.5. "You" or "Your" means an individual or Legal Entity exercising permissions granted by this Agreement.
+1.6. "INF" (or "we") means INF Technology (Shanghai) Co., Ltd. and/or any of their affiliates.
+1.7. "Third Parties" means individuals or legal entities that are not under common control with INF or You.
+
+2. Grant of Rights.
+Your use of the following rights is strictly dependent on your complete adherence to the terms of this Agreement. In accordance with the stipulations of this Agreement, INF grants you the following rights, which are perpetual, global, non-exclusive, free of charge, and royalty-free, and are subject to revocation:
+2.1. The right to publicly perform and display the Model.
+2.2. The right to reproduce and utilize the Model.
+2.3. The right to create derivative works based on the Model.
+2.4. The authority to manufacture, have manufactured, and sell the Model or its derivatives.
+2.5. The ability to offer for sale, distribute, and import the Model or its derivatives through various distribution channels.
+
+3. Redistribution.
+You are permitted to reproduce and distribute the Model or any Derivative Models, either in their original form or with modifications, across various mediums, as long as you fulfill the following requirements:
+3.1. If you choose to distribute the Model, it is mandatory to:
+Provide each recipient with a copy of this Agreement.
+3.2. You have the right to:
+a. Append your own copyright statement to the modifications you make.
+b. Offer alternative or supplementary licensing terms and conditions for the use, reproduction, or distribution of your modifications.
+c. Establish terms and conditions for the Derivative Models as a whole.
+d. However, this is only permissible if your use, reproduction, and distribution of the original Model align with the conditions laid out in this Agreement.
+
+4. Other Provisions
+4.1. Trademarks. No rights are given to use the trade names, trademarks, service marks, or product names of INF as part of this agreement, except as required for reasonable and customary use in describing the origin of the Model and fulfilling the notice requirements explicitly stated in this Agreement.
+4.2. Disclaimer of Warranty. Unless explicitly stipulated in writing or mandated by law, INF offers the Model strictly in its existing condition, without any form of warranty, whether stated or implied. This includes, but is not limited to, any warranties or conditions regarding the title, non-infringement, merchantability, or suitability for a specific purpose. It is your sole responsibility to assess the suitability of using or redistributing the Model, its derivatives, and any outputs. You also assume all risks related to the exercise of the rights granted by this Agreement.
+4.3. Governing Law and Jurisdiction. This agreement will be governed and construed under PRC laws without regard to choice of law principles, and the UN Convention on Contracts for the International Sale of Goods does not apply to this agreement. The People's Courts in Shanghai shall have exclusive jurisdiction over any dispute arising out of this Agreement.
+4.5. If any provision of this License is held to be invalid, illegal or unenforceable, the remaining provisions shall be unaffected thereby and remain valid as if such provision had not been set forth herein.
+4.6. Personal information, IP rights and related. This Model may contain personal information and works with IP rights. You commit to complying with applicable laws and regulations in the handling of personal information and the use of such works. Please note that INF's license granted to you to use the Model does not imply that you have obtained a legitimate basis for processing the related information or works. As an independent personal information processor and IP rights user, you need to ensure full compliance with relevant legal and regulatory requirements when handling personal information and works with IP rights that may be contained in the Model, and are willing to assume solely any risks and consequences that may arise from that.
+4.7. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall INF be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Model and the Complementary Material (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if INF has been advised of the possibility of such damages.
