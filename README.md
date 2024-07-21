@@ -80,8 +80,6 @@ We present the performance results of our chat model and other LLM on various st
 | Arena-Hard |     24.2      |     42.6     |    43.1    |
 | GSM8K |     81.42      |     79.45     |    84.04    |
 | MATH |     42.28      |     54.06     |    51.48   |
-| USMLE |     58.70     |     55.84     |    79.70    |
-| CFA 2.0 |     35.5      |     42.5     |    62.75    |
 
 
 ### Long Context
