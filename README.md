@@ -7,8 +7,8 @@
   <a href="https://chat.infly.cn/" target="_blank">
     <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-INF%20LLM-536af5?color=536af5&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/infly-ai" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-INF%20AI-ffc107?color=ffc107&logoColor=white" />
+  <a href="https://huggingface.co/infly" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Infly%20AI-ffc107?color=ffc107&logoColor=white" />
   </a>
 
 </div>
