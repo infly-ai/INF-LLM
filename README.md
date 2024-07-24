@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.infly.cn/en/research"><b>Paper Link</b></a>
+  <a href="https://s.infly.cn/f/img/pdf/inf_34b_tech_report.pdf"><b>Paper Link</b></a>
 </p>
 
 
@@ -207,7 +207,7 @@ INF-34B series (including Base and Chat) support commercial applications under a
   author = {INF-Team},
   title = {INF’s Open-Source Large Language Models},
   year = {2024},
-  url = {https://github.com/infly-ai/INF-LLM}
+  url = {https://s.infly.cn/f/img/pdf/inf_34b_tech_report.pdf}
 }
 ```
 
